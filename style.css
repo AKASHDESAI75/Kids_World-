@@ -1,0 +1,542 @@
+.top {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .left {
+            width: 20px;
+        }
+
+        .ad img {
+            height: 26vw;
+            width: 97vw;
+        }
+
+        .ak {
+            display: flex;
+        }
+
+        .ad h1 {
+            color: white;
+            position: absolute;
+            top: 13%;
+            margin-left: 2rem;
+            font-size: 4rem;
+
+
+        }
+
+        .ak1 {
+            color: white;
+            position: absolute;
+            top: 50%;
+            margin-left: 2%;
+        }
+
+        .img2 img {
+            height: 15rem;
+            width: 13rem;
+            margin-top: 1rem;
+        }
+
+        .img3 img {
+            height: 15rem;
+            width:13rem;
+            margin-top: 1rem;
+        }
+
+        .img4 img {
+            height: 15rem;
+            width: 13rem;
+            margin-top: 1rem;
+        }
+
+        .img5 img {
+            height: 15rem;
+            width: 13rem;
+            margin-top: 1rem;
+        }
+
+        .img6 img {
+            height: 15rem;
+            width: 13rem;
+            margin-top: 1rem;
+        }
+
+        .img7 img {
+            height: 15rem;
+            width: 13rem;
+            margin-top: 1rem;
+        }
+
+        .harsh img {
+
+            margin-bottom: -11px;
+        }
+
+        .harsh2 img {
+            margin-bottom: -11px;
+        }
+
+        .harsh3 img {
+            margin-bottom: -11px;
+        }
+
+        .harsh5 img {
+            margin-bottom: -11px;
+        }
+
+        .harsh6 img {
+            margin-bottom: -11px;
+        }
+
+        .harsh7 img {
+            margin-bottom: -11px;
+        }
+    
+.img3{
+
+    width: 8rem;
+}
+
+        .hp {
+            margin: -31px 51px;
+            border: 2px solid red;
+            width: 78px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+
+        }
+
+        .lon {
+            margin: -31px 51px;
+            border: 2px solid red;
+            width: 78px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+
+        }
+
+        .dell {
+            margin: -31px 51px;
+            border: 2px solid red;
+            width: 78px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+        }
+
+        .dell5 {
+            margin: -31px 51px;
+            border: 2px solid red;
+            width: 78px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+        }
+
+        .dell6 {
+            margin: -31px 51px;
+            border: 2px solid red;
+            width: 78px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+        }
+
+        .dell7 {
+            margin: -31px 51px;
+            border: 2px solid red;
+            width: 78px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+        }
+
+        .harsh {
+            padding: 33px 77px;
+        }
+
+        .harsh2 {
+            padding: 33px 77px;
+        }
+
+        .harsh3 {
+            padding: 33px 77px;
+        }
+
+        .harsh5 {
+            padding: 33px 77px;
+        }
+
+        .harsh6 {
+            padding: 33px 77px;
+        }
+
+        .harsh7 {
+            padding: 33px 77px;
+        }
+
+        .harsh strong {
+            margin: 39px -74px;
+        }
+
+        .harsh2 strong {
+            margin: 39px -74px;
+        }
+
+        .harsh3 strong {
+            margin: 39px -74px;
+        }
+
+        .harsh5 strong {
+            margin: 39px -74px;
+        }
+
+        .harsh6 strong {
+            margin: 39px -74px;
+        }
+
+        .harsh7 strong {
+            margin: 39px -74px;
+        }
+
+        .akash7 {
+            display: flex;
+        }
+
+        /* Discover new games */
+        .img01 img {
+            height: 15rem;
+            width: 19rem;
+            margin-top: 1rem;
+        }
+
+
+        .harsh01 img {
+            margin-bottom: -13px;
+        }
+
+
+        .dell01 {
+            margin: -31px 32px;
+            border: 2px solid red;
+            width: 85px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+
+        }
+
+
+        .harsh01 {
+            padding: 33px 77px;
+        }
+
+        .harsh01 strong {
+            margin: 39px -74px;
+        }
+
+
+
+        .img02 img {
+            height: 15rem;
+            width: 19rem;
+            margin-top: 1rem;
+        }
+
+
+        .harsh02 img {
+            margin-bottom: -13px;
+        }
+
+
+        .dell02 {
+            margin: -31px 32px;
+            border: 2px solid red;
+            width: 85px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+        }
+
+        .harsh02 {
+            padding: 33px 77px;
+        }
+
+        .harsh02 strong {
+            margin: 39px -74px;
+        }
+
+        /* img03 */
+
+        .img03 img {
+            height: 15rem;
+            width: 19rem;
+            margin-top: 1rem;
+        }
+
+
+        .harsh03 img {
+            margin-bottom: -13px;
+        }
+
+
+        .dell03 {
+            margin: -31px 32px;
+            border: 2px solid red;
+            width: 85px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+        }
+
+        .harsh03 {
+            padding: 33px 77px;
+        }
+
+        .harsh03 strong {
+            margin: 39px -74px;
+        }
+
+
+        /* img04 */
+
+        .img04 img {
+            width: 19rem;
+            height: 15rem;
+            margin-top: 1rem;
+        }
+
+        .harsh04 img {
+            margin-bottom: -13px;
+        }
+
+
+        .dell04 {
+            margin: -31px 32px;
+            border: 2px solid red;
+            width: 85px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+        }
+
+        .harsh04 {
+            padding: 33px 77px;
+        }
+
+        .harsh04 strong {
+            margin: 39px -74px;
+        }
+
+        .akbhai {
+            display: flex;
+            justify-content: space-between;
+        }
+
+
+
+        .akash5 {
+            margin: 0% -6%;
+            width: 10rem;
+            height: 240px;
+        }
+
+        .aksh3 {
+            margin: 0% -4%;
+        }
+
+        .akash1 {
+            margin: 0% -3%;
+        }
+        
+
+        .dell01 {
+            margin-left: 90%;
+        }
+
+        .dell02 {
+            margin-left: 90%;
+        }
+
+        .dell03 {
+            margin-left: 90%;
+        }
+
+        .dell04 {
+            margin-left: 90%;
+        }
+
+
+        /* Handmade with love */
+
+
+        .img001 img {
+            width: 19rem;
+            height: 15rem;
+            margin-top: 2rem;
+            
+             
+        }
+
+        .harsh001 img {
+            margin-bottom: -13px;
+        }
+
+
+        .dell001 {
+            margin: -31px 32px;
+            border: 2px solid red;
+            width: 85px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+            margin-left: 90%;
+
+        }
+
+        .harsh001 {
+            padding:33px 77px;
+        }
+
+        .harsh001 strong {
+            margin: 39px -74px;
+        }
+
+        /* img002 */
+
+        .img002 img {
+            width: 19rem;
+            height: 15rem;
+            margin-top: 2rem;
+        }
+
+        .harsh002 img {
+            margin-bottom: -13px;
+        }
+
+
+        .dell002 {
+            margin: -31px 32px;
+            border: 2px solid red;
+            width: 85px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+            margin-left: 90%;
+        
+
+        }
+
+        .harsh002 {
+            padding: 33px 77px;
+        }
+
+        .harsh002 strong {
+            margin: 39px -74px;
+        }
+
+
+        /* img003 */
+
+    
+        .img003 img {
+            width: 19rem;
+            height: 15rem;
+            margin-top: 2rem;
+        }
+
+        .harsh003 img {
+            margin-bottom: -13px;
+        }
+
+
+        .dell003 {
+            margin: -31px 32px;
+            border: 2px solid red;
+            width: 85px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+            margin-left: 90%;
+
+        }
+
+        .harsh003 {
+            padding: 33px 77px;
+        }
+
+        .harsh003 strong {
+            margin: 39px -74px;
+        }
+
+        /* img004 */
+
+
+        .img004 img {
+            width: 19rem;
+            height: 15rem;
+            margin-top: 2rem;
+        }
+
+        .harsh004 img {
+            margin-bottom: -13px;
+        }
+
+
+        .dell004 {
+            margin: -31px 32px;
+            border: 2px solid red;
+            width: 85px;
+            height: 35px;
+            background-color: rgb(149 193 248);
+            border-radius: 5px;
+            color: white;
+            border-style: none;
+            margin-left: 90%;
+        
+
+        }
+
+        .harsh004 {
+            padding: 33px 77px;
+        }
+
+        .harsh004 strong {
+            margin: 39px -74px;
+        }
+        .akbhai1 {
+            display: flex;
+            justify-content: space-between;
+            
+        }
+
